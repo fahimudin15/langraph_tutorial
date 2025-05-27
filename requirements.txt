@@ -1,0 +1,9 @@
+langchain>=0.1.0
+langgraph>=0.0.10
+anthropic>=0.8.0
+langchain-anthropic>=0.1.1
+langchain-core>=0.1.10
+langsmith>=0.0.75
+langchain-tavily>=0.0.1
+python-dotenv>=1.0.0
+typing-extensions>=4.8.0 
