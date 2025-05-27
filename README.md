@@ -1,4 +1,4 @@
-# Multi-Agent Chatbot System
+# Simple-Agent Chatbot System
 
 A simple-agent chatbot system built using LangGraph and LangChain, featuring time-travel capabilities and tool integration.
 
