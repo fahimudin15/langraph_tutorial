@@ -16,10 +16,10 @@ from langchain.tools import tool
 from datetime import datetime
 
 # Set up API keys
-os.environ["ANTHROPIC_API_KEY"] = "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"
-os.environ["TAVILY_API_KEY"] = "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"
+os.environ["ANTHROPIC_API_KEY"] = "your_api_key"
+os.environ["TAVILY_API_KEY"] = "your_api_key"
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = "your_api_key"
 os.environ["LANGCHAIN_PROJECT"] = "langgraph_tutorial"
 
 # Initialize tracers and callbacks
